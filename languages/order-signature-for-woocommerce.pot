@@ -1,0 +1,137 @@
+#, fuzzy
+msgid ""
+msgstr "Project-Id-Version: Order Signature for WooCommerce - Light\n"
+"POT-Creation-Date: 2019-11-14 15:16+0200\n"
+"PO-Revision-Date: \n"
+"Last-Translator: George Crăcănel <george@superwpheroes.io>\n"
+"Language-Team: Super WP Heroes\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Language: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2.4\n"
+
+#: swph-woo-order-signature-light.php:35
+#, php-format
+msgid "Sorry, but this plugin requires the WooCommerce Plugin to be installed and active. <br><a href=\"%s\">&laquo; Return to Plugins</a>"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:49
+msgid "Rate This Plugin"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:52
+msgid "SUPPORT"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:55
+msgid "Settings"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:96 swph-woo-order-signature-light.php:156
+#: swph-woo-order-signature-light.php:162
+#: swph-woo-order-signature-light.php:412
+msgid "Done Signing"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:97 swph-woo-order-signature-light.php:157
+#: swph-woo-order-signature-light.php:163
+#: swph-woo-order-signature-light.php:420
+msgid "Clear Signature"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:145
+#: swph-woo-order-signature-light.php:147
+msgid "Terms and Conditions"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:146
+#: swph-woo-order-signature-light.php:148
+msgid "By signing below you agree with the terms and conditions."
+msgstr ""
+
+#: swph-woo-order-signature-light.php:151
+msgid "Your Signature"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:165
+msgid "Redraw Signature"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:209
+#: swph-woo-order-signature-light.php:247
+msgid "Please add your signature!"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:239
+msgid "Change Payment Method"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:276
+#: swph-woo-order-signature-light.php:374
+#: swph-woo-order-signature-light.php:383
+#: swph-woo-order-signature-light.php:468
+msgid "Customer Signature"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:384
+msgid "There is no signature for this order."
+msgstr ""
+
+#: swph-woo-order-signature-light.php:404
+msgid "Signature Settings"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:411
+msgid "\"Done Signing\" Button Text"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:419
+msgid "\"Clear Signature\" Button Text"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:426
+msgid "Signature color"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:433
+msgid "Signature stroke thickness"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:436
+msgid "in pixels"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:440
+msgid "Signature error alert error message"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:441
+msgid "Please draw at least a duck :) Sorry for the inconvenience, but we need to be compliant with tax and documents regulations here as well. Thank you for understanding!"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:453
+msgid "Custom field title"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:454
+#: swph-woo-order-signature-light.php:461
+msgid "Default text"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:460
+msgid "Custom field text"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:467
+msgid "\"Customer Signature\" Text"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:477
+msgid "\"Customer Signature\" Text Size"
+msgstr ""
+
+#: swph-woo-order-signature-light.php:493
+msgid "Signature"
+msgstr ""
